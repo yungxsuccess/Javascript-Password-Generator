@@ -11,6 +11,7 @@ HTML
 CSS
 JavaScript
 Credits
-Created by Jennifer Nguyen with the gracious help of TAs Wesley Tran and John Baxter. Starter code retrieved from https://github.com/coding-boot-camp/friendly-parakeet.
+Jennifer Nguyen, and Paul Keldsen Via Youtube
 
-Website:
+github link: https://github.com/yungxsuccess/Javascript-Password-Generator
+deployed website link:
